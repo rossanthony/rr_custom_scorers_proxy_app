@@ -5,3 +5,4 @@ target/
 answers/*.csv
 logs/*.log*
 config/*
+!config/*.dist
