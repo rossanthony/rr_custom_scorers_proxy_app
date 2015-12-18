@@ -4,3 +4,4 @@ target/
 *.pyc
 answers/*.csv
 logs/*.log*
+config/*
